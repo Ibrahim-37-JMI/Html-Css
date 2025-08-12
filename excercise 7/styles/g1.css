@@ -1,0 +1,42 @@
+.photo{
+  object-fit: cover;
+  
+  width:50px;
+  height:50px;
+  border-radius: 25px;
+  vertical-align: middle;
+} 
+.what{
+  border:none;
+  padding-right: 30px;
+  font-size: 20px;
+  width:250px;
+  vertical-align: middle;
+}
+.tweet{
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+    vertical-align: middle;
+    
+  }
+
+  .tweet:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+
+
+
+   

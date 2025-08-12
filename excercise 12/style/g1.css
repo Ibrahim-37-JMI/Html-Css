@@ -1,0 +1,44 @@
+.flex{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+img{
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  margin-left: 10px;
+  margin-right: 15px;
+}
+.prof{
+  margin-right: 100px;
+  width: 100px;
+}
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: arial;
+}
+.type{
+  color: grey;
+  margin-bottom: 2px;
+  width:150px
+
+  
+}
+.pop{
+  color:grey;
+  font-size: 13px;
+}
+button{
+  background-color: rgb(104, 172, 245);
+  color: white;
+  border: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}

@@ -1,0 +1,46 @@
+.video{
+  margin-bottom:10px;
+ 
+}
+img{
+  height: 105px; 
+  width: 180x;
+  object-fit: cover;
+
+
+}
+.thumb{
+  display: inline-block;
+  margin-right: 10px;
+
+}
+.info{
+  display:inline-block;
+  vertical-align: top;
+}
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Roboto;
+  font:400;
+
+  
+
+}
+.title{
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 16px;
+  width:300px;
+  
+
+}
+.name{
+  padding-top: 10px;
+  padding-bottom: 3px;
+  color:grey;
+}
+.view{
+  color:grey;
+}
+

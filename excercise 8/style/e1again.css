@@ -1,0 +1,38 @@
+p{
+  font-size: 35px;
+  font-family: arial;
+
+
+}
+input{
+  display: block;
+  border:none;
+  background-color: rgba(211, 211, 211, 0.444);
+  height:35px;
+  width:350px;
+}
+.pick{
+  margin-bottom:10px;
+}
+.dest{
+  margin-bottom: 30px;
+
+}
+button{
+  border:none;
+
+}
+.req{
+  background-color: black;
+  color:white;
+  height:35px;
+  width:120px;
+  margin-right: 20px;;
+
+}
+.lat{
+  height:35px;
+  width:120px;
+
+}
+

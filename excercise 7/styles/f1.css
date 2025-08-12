@@ -1,0 +1,34 @@
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: arial;
+}
+.mail{
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.box{
+  height: 20px;
+  width:300px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 3px;
+  margin-bottom: 15px;
+
+}
+.pol{
+  font-size: 12px;
+  margin-bottom: 15px;
+
+}
+.aj{
+  background-color: rgb(10, 102, 194);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 110px;
+  padding-right: 110px ;
+  color:white;
+  border:none;
+  font-size: 15px;
+  border-radius: 25px;
+}
