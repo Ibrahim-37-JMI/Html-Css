@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .strips{
+        display: flex;
+        height: 50px;
+      }
+      .pink{
+        display: flex;
+        background-color: pink;
+        width: 100px;
+      }
+      .blue{
+        display: flex;
+        background-color: lightblue;
+        width: 200px;
+        flex-direction: column;
+      }
+      p{
+        display: inline-block;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-family: arial;
+        font-size: 16px;
+      }
+      .bottom{
+        display: flex;
+        justify-content: space-between;
+      }
+      button{
+        background-color: black;
+        color: white;
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 16px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+      }
+
+      
+
+    </style>
+
+  </head>
+  <body>
+    <div class="strips">
+      <div class="pink">
+      </div>
+      <div class="blue">
+        <div class="top">
+          <p>row1</p>
+        </div>
+        <div class="bottom">
+          <button>
+            row2
+          </button>
+          <button>
+            row2
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

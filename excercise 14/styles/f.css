@@ -1,0 +1,56 @@
+body{
+  height: 1000px;
+  width: 1000px;
+}
+.side{
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;;
+}
+.image{
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(34, 34, 34);
+}
+img{
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.sloth{
+  margin-top: 20px;
+}
+.set{
+  background-color: rgb(61, 61, 61);
+  width: 180px;
+}
+.top{
+  display: flex;
+  justify-content: space-between;
+  width: 150px;
+  align-items: center;
+  height: 20px;
+  margin-top: 25px;
+ 
+}
+.info{
+  color: white;
+  font-family: arial;
+  margin-left: 15px;
+}
+.tag{
+  color: rgb(176, 176, 176);
+  margin-left: 15px;
+  font-family: arial;
+}
+.plus{
+  font-family: arial;
+  color: rgb(176, 176, 176);
+  font-size: 24px;
+}

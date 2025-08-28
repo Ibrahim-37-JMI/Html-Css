@@ -1,0 +1,52 @@
+body{
+  padding-bottom: 1000px;
+}
+.overlay{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.side{
+  background-color: green;
+  color: white;
+  position: fixed;
+  width: 100px;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  font-family: arial;
+}
+.modal{
+  padding-bottom: 20px;
+  padding-right: 200px;
+  background-color: white;
+  border-radius: 5px;
+  padding-top: 10px;
+}
+p{
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.title{
+  font-weight: bold;
+  font-size: 24px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.this{
+  margin-left: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+button{
+  margin-left: 10px;
+}

@@ -1,0 +1,64 @@
+.gmail{
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+  width: 375px;
+  border-radius: 5px;
+}
+.mail{
+  display: flex;
+  flex-direction: column;
+  padding-top: 0px;
+  padding-bottom: 25px;
+  padding-left: 5px;
+  padding-right: 20px;
+  width: 370px;
+  margin-bottom: 10px ;
+}
+p{
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.inbox{
+  color: grey;
+  margin-left: 10px;
+  margin-bottom: 15px;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.noti{
+  display: flex;
+}
+img{
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  margin-left: 10px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.top-row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.name{
+  font-weight: bold;
+  margin-top: 3px;
+  font-size: 16px;
+  margin-bottom: 3px;
+}
+.time{
+  color: grey;
+  font-size: 14px;
+}
+.title{
+  font-weight:bold;
+  font-size: 14px;
+  margin-bottom: 3px;
+}
+.mssg{
+  color: grey;
+  font-size: 14px;
+}
